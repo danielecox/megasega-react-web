@@ -1,0 +1,16 @@
+npx create-react-app mega-sena
+
+Cores para design:
+http://everyknightshoulddesign.blogspot.com/2013/08/beautiful-color-palettes-their-hex-codes.html
+Gradientes:
+https://uigradients.com/#Firewatch
+
+
+Conceitos:
+Construindo aplicação com conceito de componentes do React;
+Utilizar o hook { useState } para aplicar o conceito de componente controlado em cima do INPUT;
+
+Git:
+git init
+git add mega-sena
+git commit -m "mensagem para versão"

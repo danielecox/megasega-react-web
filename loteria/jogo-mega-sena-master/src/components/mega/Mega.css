@@ -1,0 +1,9 @@
+button {
+    background: #293E6A;
+    border: 1px solid #293E6A;
+    border-radius: 3px;
+    color: #FDFDFD;
+    font-size: 1.2rem;
+    margin: 1rem;
+    padding: 1rem 1.5rem;
+}
