@@ -6,7 +6,7 @@
 ![](https://github.com/TiagoCiceri/jogo-mega-sena/blob/master/imagem-prj-mega-sena2.png)
 
 **Ferramenta utilizada**
-#### `VSConde`
+#### `VSCode`
 
 **Dependencias**
 #### `Noje.js V.12.16.3`
